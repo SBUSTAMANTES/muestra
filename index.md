@@ -1,15 +1,11 @@
-## Welcome to GitHub Pages
+## Bienvenido a Mi Perfil
 
-You can use the [editor on GitHub](https://github.com/SBUSTAMANTES/muestra/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Aquí encontraras todo acerca de mi carrera profesional y proyectos gastronomicos
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Estudios
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Inicie mis estudios en gastronomía en  Duoc Uc el año 2013, donde tuve clases con grandes y reconocidos profesores y profesionales gastronomicos tales como Luis Dias pastelero. En el 2015 titulado de gastronomía.
+`
 
 # Header 1
 ## Header 2
